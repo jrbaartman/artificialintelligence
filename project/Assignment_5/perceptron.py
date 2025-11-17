@@ -8,10 +8,10 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Change parameters to experiment with different settings
-Part1_LR = 0.01
+Part1_LR = 0.1
 Part1_Iterations = 100
 
-Part2_LR = 0.01
+Part2_LR = 0.1
 Part2_Epochs = 100
 
 
